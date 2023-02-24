@@ -9,13 +9,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
     "@types/leaflet": "^1.9.1",
+    "@types/node": "^18.14.1",
+    "@types/react-icons": "^3.0.0",
     "@types/react-leaflet": "^3.0.0",
+    "framer-motion": "^9.1.6",
     "leaflet": "^1.9.3",
+    "leaflet-routing-machine": "^3.2.12",
+    "nominatim-geocoder": "^0.1.4",
+    "path": "^0.12.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
     "react-leaflet": "^4.2.0",
-    "react-router-dom": "^6.8.1"
+    "react-router-dom": "^6.8.1",
+    "vite-tsconfig-paths": "^4.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
